@@ -32,6 +32,9 @@ Create a virtual environment (recommended):
 
     python -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
+![image](https://github.com/user-attachments/assets/723471c6-7e79-433a-9698-d41545207285)
+![image](https://github.com/user-attachments/assets/bf704c05-3b21-4ed9-a673-939885daa716)
+
 ```
 
 Install the required libraries:
