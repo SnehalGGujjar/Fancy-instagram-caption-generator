@@ -1,5 +1,3 @@
-
-```markdown
 # 📸 Fancy Instagram Caption Generator ✨
 
 Make your photos pop with **smart, stylish, and share-ready captions**!  
